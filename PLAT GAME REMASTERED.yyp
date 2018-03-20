@@ -130,7 +130,7 @@
             "Key": "68512eb0-a641-4e75-8f4a-f71b45630c97",
             "Value": {
                 "id": "8e452190-8279-4710-941f-00318ec1c2f5",
-                "resourcePath": "sprites\\sEnemyD\\sEnemyD.yy",
+                "resourcePath": "sprites\\sEnemyA\\sEnemyA.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -322,7 +322,7 @@
             "Key": "f4e133c5-403d-4979-8220-adf0a4163699",
             "Value": {
                 "id": "ac64a6a3-81f7-4b4e-96da-74d29c1a60bb",
-                "resourcePath": "sprites\\sEnemyA\\sEnemyA.yy",
+                "resourcePath": "sprites\\sEnemyD\\sEnemyD.yy",
                 "resourceType": "GMSprite"
             }
         }
